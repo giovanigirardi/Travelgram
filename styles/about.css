@@ -1,5 +1,6 @@
 #about {
   padding-block: 32px;
+  font: var(--text-md);
 }
 
 #about .container {
@@ -22,10 +23,6 @@
   font: var(--text-lg);
   color: var(--text-color-primary);
   margin-bottom: 8px;
-}
-
-#profile p {
-  font: var(--text-md);
 }
 
 #info {
